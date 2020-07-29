@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+My name is Bruno Henrique and I start to develop in 2020. I'm graduate in history by Universidade Federal de Goiás and have a pós-graduate in Classical Rome. Now i'm engaging to develop on JavaScript. 
 <!--
 **brunohenriquee12/brunohenriquee12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
